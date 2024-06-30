@@ -1,0 +1,1 @@
+export const backendurl = "https://tictactoe-mn8l.onrender.com";
